@@ -20,16 +20,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/[[...paths]].js"
     ],
-    "/[locale]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/[locale].js"
-    ],
-    "/[locale]/arya": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/[locale]/arya.js"
-    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
