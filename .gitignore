@@ -1,0 +1,17 @@
+.next/
+.codesandbox/
+node_modules/
+dist/
+out/
+build/
+
+*.app
+*.exe
+*.war
+Ï
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
